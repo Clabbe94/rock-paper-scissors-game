@@ -1,0 +1,14 @@
+.score-container {
+    white-space: pre;
+    margin-top: 10px;
+    background-color: papayawhip;
+}
+
+.result-text {
+    margin-top: 10px;
+    background-color: lavender;
+}
+
+.choice-container {
+    background-color: lemonchiffon;
+}
